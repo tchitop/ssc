@@ -1,0 +1,2 @@
+# ssc
+Schul.cloud selfbot
